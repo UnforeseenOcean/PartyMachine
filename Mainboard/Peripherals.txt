@@ -1,0 +1,7 @@
+BK3254 
+Pros: FM, BT 4.1 and SD all-in-one SoC supporting Stereo audio and voice output, plenty of GPIOs
+Cons: Datasheet is confidential, closed-source and cannot be modified past certain level
+
+ESP32
+Pros: Powerful SoC with Bluetooth and 802.11n Wi-Fi built in
+Cons: Every hardware and software interactions need to be programmed
